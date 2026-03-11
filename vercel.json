@@ -1,19 +1,8 @@
 {
-  "builds": [
+  "rewrites": [
     {
-      "src": "index.html",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "api/chat.js",
-      "use": "@vercel/node"
+      "source": "/api/chat",
+      "destination": "/api/chat.js"
     }
-  ],
-  "routes": [
-    {
-      "src": "/api/chat",
-      "dest": "/api/chat.js"
-    }
-  ],
-  "version": 2
+  ]
 }
