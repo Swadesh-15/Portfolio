@@ -1,0 +1,57 @@
+SWADESH CHOUDHARY 
++91 9584872076  |  swadeshchoudhary191@gmail.com  |  Bengaluru, India  |  LinkedIn  |  GitHub  |  Interactive Portfolio (SC-01) 
+PROFESSIONAL SUMMARY 
+Results-driven AI/ML Engineer with 3+ years of experience building production-grade multi-agent AI systems, RAG architectures and 
+LLM-power applications. Proficient in Python, FastAPI, LangChain, LangGraph, and OpenAI APIs; with a proven track record of 
+reducing pipeline durations by ~95% through Agentic AI automation, bridging AI research and enterprise engineering to deliver  
+measurable efficiency gains at scale. 
+PROFESSIONAL EXPERIENCE 
+Technical Lead Engineer – AI-Driven Automation | Bengaluru Oct 2023 – Present 
+HCL Technologies 
+• Reduced end-to-end test plan generation time by ~95% (months → hours) by architecting a production-grade Multi-Agent AI 
+Orchestration system using LangGraph and LangChain. 
+• Designed and shipped an Excel-embedded Conversational AI Bot using HTML5, Tailwind CSS, and Office.js, enabling real-time AI 
+interaction for 100+ enterprise users. 
+• Implemented hybrid RAG combining BM25 keyword search with semantic search via OpenAI's text-embedding-3 model and 
+Vector Embeddings to ground multi-agent responses in project-specific context, boosting response precision by ~40%. 
+• Deployed a FastAPI gateway routing Excel queries to a Multi-Agentic AI Orchestrator that dispatches tasks to specialized 
+agents — Test Plan Generator, Feedback Collector, and Reasoning Agent. 
+• Diagnosed and resolved a token-limit bottleneck on Azure OpenAI GPT-4.1 (100K TPM per deployment cap) by engineering a 
+capacity-aware Pool Manager with load balancing and token optimization — tracks remaining tokens per server (available = 
+100K − used) and routes requests to the least-engaged endpoint across 10 deployments (1M TPM active / ~2B TPM total 
+quota), eliminating 429 errors entirely. 
+• Engineered a two-way Office.js sync engine serializing live Excel edits into JSON payloads and routing them via FastAPI to a 
+dedicated Feedback Agent for automated contextual analysis. 
+• Architected an Azure Cosmos DB data pipeline accumulating labeled feedback for iterative model fine-tuning, enhancing model 
+performance by an estimated ~20% over 3 months. 
+Skills Used: Python · FastAPI · LangChain · LangGraph · OpenAI API · Azure OpenAI · RAG · Vector DB · Azure Cosmos DB · Azure Cloud · Office.js · 
+Tailwind CSS 
+Machine Learning Intern – Wash Cycle Optimization | Goa, India Jun 2022 – Aug 2022 
+IFB Industries 
+• Developed an AI-powered automation system using a Random Forest model to predict and adjust wash duration, water intake, 
+and detergent release via real-time sensor feedback, projected to achieve a 15% reduction in water and energy consumption. 
+• Applied rolling-average signal processing to eliminate optical noise and calculate precise dirt extraction rates, increasing 
+measurement precision by ~25%. 
+• Developed an asynchronous data ingestion API (FastAPI + Python) feeding live sensor data into Scikit-learn algorithms for 
+automated hardware control. 
+Skills Used: Python · FastAPI · Scikit-learn · Pandas · NumPy · Matplotlib · Random Forest 
+PROJECTS 
+Calibration of Low-Cost Air Quality Sensors Sep 2022 – Mar 2023 
+IIT Goa, Goa 
+• Developed and evaluated Random Forest, Linear Regression, and Multiple Regression models with random-search tuning to 
+calibrate PM2.5 sensors, integrating ambient features (humidity, temperature, wind speed) to reduce RMSE by ~18%. 
+• Visualized model performance and sensor drift patterns using Matplotlib; achieved peak Pearson correlation r = 0.853 against 
+high-fidelity government-grade reference monitors, validating production readiness. 
+Skills Used: Python · Scikit-learn · Random Forest · Linear Regression · Multiple Regression · Pandas · NumPy · Matplotlib 
+EDUCATION 
+Bachelor of Technology, Mechanical Engineering Aug 2019 – May 2023 
+Indian Institute of Technology (IIT) Goa | Goa, India 
+TECHNICAL SKILLS 
+AI/ML: LangChain, LangGraph, LlamaIndex, Agentic AI, RAG, Hybrid Search, BM25, Prompt Engineering, Fine-tuning, OpenAI API, 
+Claude API, Hugging Face, Transformers, NLP 
+Machine Learning: Scikit-learn, Random Forest, Linear Regression, Multiple Regression, Pandas, NumPy, Matplotlib, Feature 
+Engineering 
+Backend & Cloud: Python, FastAPI, Node.js, REST APIs, Microservices, API Integration, Azure Cloud, Azure Cosmos DB, Vector 
+Databases, LLMOps 
+Frontend & Integration: JavaScript, HTML5, CSS3, Tailwind CSS, Office.js (Excel Add-in) 
+Tools: Git, GitHub, Jupyter Notebook, VS Code, CI/CD Pipelines 
